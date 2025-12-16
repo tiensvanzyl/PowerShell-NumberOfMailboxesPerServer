@@ -3,7 +3,7 @@ Set-ADServerSettings -ViewEntireForest $True
 ###################################################################################################################################################################################################################################### 
 # Exchange 2010 and 2007 Month End Report for number of mailboxes per server. 
 # Author: 
-# Email: tiens.vanzyl@gmail.com
+# Email:
 # Date 30 March 2016
 # Updated by Tiens van Zyl (Date)
 # Updates: Version 1
