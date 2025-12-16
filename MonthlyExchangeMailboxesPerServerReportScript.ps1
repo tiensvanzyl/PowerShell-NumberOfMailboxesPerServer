@@ -2,7 +2,7 @@ add-pssnapin Microsoft.Exchange.Management.PowerShell.E2010 -erroraction silentl
 Set-ADServerSettings -ViewEntireForest $True
 ###################################################################################################################################################################################################################################### 
 # Exchange 2010 and 2007 Month End Report for number of mailboxes per server. 
-# Author: Tiens van Zyl
+# Author: 
 # Email: tiens.vanzyl@gmail.com
 # Date 30 March 2016
 # Updated by Tiens van Zyl (Date)
